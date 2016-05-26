@@ -87,5 +87,8 @@
     "validate-commit-msg": "^2.6.1",
     "watchify": "^3.7.0"
   },
-  "defDependencies": {}
+  "defDependencies": {},
+  "dependencies": {
+    "travis-after-all": "^1.4.4"
+  }
 }
